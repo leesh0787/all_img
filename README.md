@@ -20,3 +20,6 @@ console.log(imageUrls.join('\n'));
   ```
 을 console에 붙여넣으면 전체 이미지 주소가 일괄적으로 나타난다.
 
+짜잔 🤗 
+![image](https://github.com/leesh0787/all_img/assets/131154479/dd7969d8-c883-4ebf-8c9e-d922f7a50234)
+
