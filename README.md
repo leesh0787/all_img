@@ -1,6 +1,15 @@
 # all_img
 
-이미지 빼오는 코드
+# 개발자모드 -> 네트워크 -> img -> 복사
+![image](https://github.com/leesh0787/all_img/assets/131154479/356e1e90-4ad0-42b9-a47f-fcccb483498d)
+
+# console창에 변수를 만든다
+
+# var har = 위에 복사한 내용을 붙여넣는다 (그 값은 객체이다)
+
+var har = {복사한내용}
+
+# 객체가 har이라는 변수에 할당되었고 그 아래에
   ```
 var imageUrls = [];
 har.log.entries.forEach(function (entry) {
@@ -9,3 +18,5 @@ har.log.entries.forEach(function (entry) {
 });
 console.log(imageUrls.join('\n'));
   ```
+을 console에 붙여넣으면 전체 이미지 주소가 일괄적으로 나타난다.
+
